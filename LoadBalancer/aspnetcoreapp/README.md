@@ -17,7 +17,7 @@ How to setup Load Balancer using Nginx:
 - nginx -s reload
 	
 3. Start all the servers
-- dotnet run --urls "http://localhost:5000;http://localhost:5062;http://localhost:5064 (change the port as required)
+- dotnet run --urls "http://localhost:5000;http://localhost:5062;http://localhost:5064" (change the port as required)
 
 4. Send request from original port configured in Nginx.conf file
 Result : Request will be served by different servers (Algo configured in Nginx load balancer)
