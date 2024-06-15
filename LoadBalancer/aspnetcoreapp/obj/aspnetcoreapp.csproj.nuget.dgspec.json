@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DDrive\\29-05-2024\\systemdesign\\aspnetcoreapp\\aspnetcoreapp.csproj": {}
+    "C:\\DDrive\\29-05-2024\\System-Design\\LoadBalancer\\aspnetcoreapp\\aspnetcoreapp.csproj": {}
   },
   "projects": {
-    "C:\\DDrive\\29-05-2024\\systemdesign\\aspnetcoreapp\\aspnetcoreapp.csproj": {
+    "C:\\DDrive\\29-05-2024\\System-Design\\LoadBalancer\\aspnetcoreapp\\aspnetcoreapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DDrive\\29-05-2024\\systemdesign\\aspnetcoreapp\\aspnetcoreapp.csproj",
+        "projectUniqueName": "C:\\DDrive\\29-05-2024\\System-Design\\LoadBalancer\\aspnetcoreapp\\aspnetcoreapp.csproj",
         "projectName": "aspnetcoreapp",
-        "projectPath": "C:\\DDrive\\29-05-2024\\systemdesign\\aspnetcoreapp\\aspnetcoreapp.csproj",
+        "projectPath": "C:\\DDrive\\29-05-2024\\System-Design\\LoadBalancer\\aspnetcoreapp\\aspnetcoreapp.csproj",
         "packagesPath": "C:\\Users\\kporw\\.nuget\\packages\\",
-        "outputPath": "C:\\DDrive\\29-05-2024\\systemdesign\\aspnetcoreapp\\obj\\",
+        "outputPath": "C:\\DDrive\\29-05-2024\\System-Design\\LoadBalancer\\aspnetcoreapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kporw\\AppData\\Roaming\\NuGet\\NuGet.Config",
